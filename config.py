@@ -40,7 +40,7 @@ API_HASH = os.getenv("API_HASH")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 OWNER_ID = int(os.getenv("OWNER_ID", None))
 OWNER_USERNAME = os.getenv("OWNER_USERNAME", "alaycikus01")
-BOT_USERNAME = os.getenv("BOT_USERNAME", "Mervemuzik_bot")
+BOT_USERNAME = os.getenv("BOT_USERNAME", "kitsunemuzikbot")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 🛠️ Database & Deployment Configs
